@@ -1,3 +1,9 @@
+.QA {
+  font-family: Monotype Corsiva;
+  color: Black;
+  font-size: 2.0em;
+  margin-left: 40px;
+}
 .button {
   color: white;
  background-color:#191970;
@@ -61,6 +67,7 @@ h2 {
   /* Параметры рамки */
   box-shadow: 0 4px 15px 0px rgba(0, 0, 0, 0.52);
   object-fit: cover;
+  margin-left: 60px;
 }
 
   /* Эффект наведения на картинку */
